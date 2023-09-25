@@ -11,7 +11,7 @@ Para iniciar o projeto é simples, basta instalar o python em sua máquina
 Ao instalar o pyhton você pode escolher a IDE que prefeir para rodar o códigop
 
 
-1. Clone o repositório: https://github.com/EnzoShiotuqui/CP_EDGE.git
+1. Clone o repositório: https://github.com/victoriafpizza/edge
 
 2. Abra o arquivo e rode ele com o comando "run python file"
 
